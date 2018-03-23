@@ -13,6 +13,7 @@ public class ReverseString {
 	            char temp = temparray[left];
 	            temparray[left] = temparray[right];
 	            temparray[right]=temp;
+	            System.out.println("poi");
 	        }
 	 
 	}	
