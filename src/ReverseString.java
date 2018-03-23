@@ -15,9 +15,5 @@ public class ReverseString {
 	            temparray[right]=temp;
 	        }
 	 
-	        for (char c : temparray)
-	            System.out.print(c);
-	        System.out.println();
-	    
-	}
+	}	
 }
