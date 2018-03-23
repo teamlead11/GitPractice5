@@ -17,7 +17,7 @@ public class ReverseString {
 	 
 	        for (char c : temparray)
 	            System.out.print(c);
-	        System.out.println();
+	        System.out.println("updated reverse string");
 	    
 	}
 }
